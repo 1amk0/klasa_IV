@@ -28,7 +28,9 @@ Magiczne zaklęcia
   - Lumos
   - Aguamenti
 1. abc
-1. bbc
+3. bbc
 2. cbc
 
    > cytat blokowy
+   
+Nie wpisuj google do googla bo się internet zawali!! ;)  (IT crowd)
