@@ -1,5 +1,5 @@
 # Tutaj jest tytuł
-## Tu jest pod tytuł
+## Tu jest podtytuł
 ### Tu jest podpodtutuł
 #### Tu jest podpodpodtytuł
 
