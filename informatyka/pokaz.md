@@ -1,5 +1,20 @@
-#tutaj jest tytuł
+# Tutaj jest tytuł
+## Tu jest pod tytuł
+### Tu jest podpodtutuł
+#### Tu jest podpodpodtytuł
+#####Tu jest5
 
-##tu jest pod tytuł
+![obrazek kota](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Small_Cat_between_the_grass.jpg/640px-Small_Cat_between_the_grass.jpg))
 
-![alt text](https://pixabay.com/vectors/search/no%20copyright/)
+[Link do "ChatGPT"](https://chatgpt.com/)
+
+| zwierzę | odgłos | kolor |
+|---|---|---|
+| kot | miau! | np. biało-czarny |
+| pies | hau! | np. brązowo-biały |
+
+*pochyłe*
+
+**pogrubione**
+
+~~przekreślenie~~
